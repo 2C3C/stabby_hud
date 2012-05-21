@@ -781,7 +781,7 @@ Scheme
 			{
 				"name"		"Formas germetricas 1"
 				"tall"		"30"
-				"weight"	"0"
+				"weight"	"500"
 				"antialias"	"1"
 			}
 		}

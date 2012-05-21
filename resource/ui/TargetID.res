@@ -9,7 +9,8 @@
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"10"
-		"autoResize"		"1"
+		"autoResize"		"0"
+		//1
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -116,7 +117,8 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"10"
-		"autoResize"		"1"
+		"autoResize"		"0"
+		//1
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -130,9 +132,11 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
 		"xpos"			"1"
-		"ypos"			"83"
-		"wide"			"49"
-		"tall"			"32"
+		"ypos"			"3"
+		"wide"			"60"
+		//49
+		"tall"			"112"
+		//32
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"

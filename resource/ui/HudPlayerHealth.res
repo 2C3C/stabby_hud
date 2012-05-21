@@ -26,9 +26,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"xHairCirclePulse"
-		"visible"		"1"
-		"enabled"		"1"
-		"zpos"			"2"
+		"visible"		"0"
+		"enabled"		"0"
 
 		"xpos"			"c-41"
 		//c-17
