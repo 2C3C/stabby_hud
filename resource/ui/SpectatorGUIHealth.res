@@ -13,6 +13,25 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 	}		
+	xHairEnemyPulse
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairEnemyPulse"
+		"visible"		"1"
+		"enabled"		"1"
+		"zpos"			"1"
+
+		"xpos"			"40"
+		"ypos"			"-10"
+		"wide"			"32"
+		"tall"			"32"
+
+		"font"			"xHairCirclePulse"
+		"labelText"		"i"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"StabbyHUDxHair"
+	}
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -69,6 +88,6 @@
 		"labeltext"		"%Health%"
 		"textAlignment"		"west"
 		"font"			"hudfontsmallestbold"
-		"fgcolor"		"0 0 0 255"
+		"fgcolor"		"TanLight"
 	}								
 }

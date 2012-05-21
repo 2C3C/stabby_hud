@@ -26,25 +26,6 @@
 		"draw_corner_width"		"0"			// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 		"0"		
 	}
-	xHairEnemyPulse
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairEnemyPulse"
-		"visible"		"1"
-		"enabled"		"1"
-		"zpos"			"1"
-
-		"xpos"			"40"
-		"ypos"			"8"
-		"wide"			"32"
-		"tall"			"32"
-
-		"font"			"xHairCirclePulse"
-		"labelText"		"i"
-		"textAlignment"	"center"	
-		
-		"fgcolor"		"0 0 0 255"
-	}
 	"TargetIDBG_Spec_Blue"
 	{
 		"ControlName"		"CTFImagePanel"
