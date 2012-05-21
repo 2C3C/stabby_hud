@@ -26,8 +26,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"xHairCirclePulse"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 
 		"xpos"			"c-41"
 		//c-17
@@ -41,7 +41,7 @@
 		"labelText"		"i"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"Garm3nHUDxHair"
+		"fgcolor"		"StabbyHUDxHair"
 	}
 	"PlayerStatusHealthImage"
 	{

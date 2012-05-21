@@ -207,8 +207,7 @@ event HudHealthBonusPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.2
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.2 0.4
 
-	Animate	xHairCirclePulse 			FgColor		"Garm3nHUDBonusPulse"		Linear 0.0 0.0
-	Animate xHairEnemyPulse				FgColor		"StabbyHUDBonusPulse"		Linear 0.0 0.2
+	Animate	xHairCirclePulse 			FgColor		"StabbyHUDBonusPulse"		Linear 0.0 0.0
 
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -226,8 +225,7 @@ event HudHealthBonusPulseStop
 	StopPanelAnimations xHairCirclePulse 0.0
 	StopPanelAnimations xHairEnemyPulse 0.0 
 
-	Animate xHairCirclePulse 	FgColor		"Garm3nHUDxHair"		Linear 0.0 0.0
-	Animate xHairEnemyPulse 	FgColor		"StabbyHUDxHair"		Linear 0.0 0.0
+	Animate xHairCirclePulse 	FgColor		"StabbyHUDxHair"		Linear 0.0 0.0
 }
 
 //===========================================
@@ -237,8 +235,7 @@ event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.075
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.125 0.075
-	Animate xHairCirclePulse 	FgColor		"Garm3nHUDDyingPulse"		Linear 0.0 0.0
-	Animate xHairEnemyPulse 	FgColor		"StabbyHUDDyingPulse"		Linear 0.0 0.0
+	Animate xHairCirclePulse 	FgColor		"StabbyHUDDyingPulse"		Linear 0.0 0.0
 
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
@@ -254,10 +251,8 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0
 	StopPanelAnimations xHairCirclePulse 0.0
-	StopPanelAnimations xHairEnemyPulse 0.0 
 
-	Animate xHairCirclePulse 	FgColor		"Garm3nHUDxHair"		Linear 0.0 0.0
-	Animate xHairEnemyPulse 	FgColor		"StabbyHUDxHair"		Linear 0.0 0.0
+	Animate xHairCirclePulse 	FgColor		"StabbyHUDxHair"		Linear 0.0 0.0
 }
 
 //===========================================

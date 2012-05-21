@@ -16,7 +16,7 @@
 	xHairEnemyPulse
 	{
 		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairEnemyPulse"
+		"fieldName"	 	"xHairCirclePulse"
 		"visible"		"1"
 		"enabled"		"1"
 		"zpos"			"5"
@@ -79,7 +79,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"30"
-		"ypos"			"94"
+		"ypos"			"95"
 		"zpos"			"6"
 		"wide"			"30"
 		"tall"			"10"
@@ -89,5 +89,21 @@
 		"textAlignment"		"west"
 		"font"			"hudfontsmallestbold"
 		"fgcolor"		"TanLight"
-	}								
+	}	
+	"PlayerStatusHealthValue2"
+	{	
+		"ControlName"		"Label"
+		"fieldName"		"PlayerStatusHealthValue2"
+		"xpos"			"10"
+		"ypos"			"9"
+		"zpos"			"6"
+		"wide"			"30"
+		"tall"			"10"
+		"visible"		"0"
+		"enabled"		"0"
+		"labeltext"		"%Health%"
+		"textAlignment"		"center"
+		"font"			"hudfontsmallestbold"
+		"fgcolor"		"TanLight"
+	}							
 }

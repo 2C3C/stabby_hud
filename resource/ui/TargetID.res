@@ -9,6 +9,7 @@
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"10"
+		//10
 		"autoResize"		"0"
 		//1
 		"pinCorner"		"0"

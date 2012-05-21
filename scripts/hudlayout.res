@@ -228,10 +228,11 @@
 		"fieldName" 		"DisguiseStatus"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-298"
-		"ypos"			"r144"
+		"xpos"			"c-330"
+		"ypos"			"r135"
 		"wide"			"500"
 		"tall"			"200"
+		//200
 
 		"xpos_minmode"		"c-314"	[$WIN32]
 		"ypos_minmode"		"r129"	[$WIN32]
