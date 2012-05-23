@@ -21,8 +21,8 @@
 		"enabled"		"1"
 		"zpos"			"5"
 
-		"xpos"			"30"
-		"ypos"			"5"
+		"xpos"			"42"
+		"ypos"			"1"
 		"wide"			"32"
 		"tall"			"32"
 

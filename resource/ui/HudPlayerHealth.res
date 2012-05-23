@@ -29,9 +29,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"xpos"			"c-41"
+		"xpos"			"c-23"
 		//c-17
-		"ypos"			"r453"
+		"ypos"			"r456"
 		//r256
 		"xpos_minmode"  "c-159"
 		"wide"			"34"
